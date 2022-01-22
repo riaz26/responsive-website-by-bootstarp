@@ -1,0 +1,45 @@
+.rk-info{
+    background-color: #fceae8;
+    margin-top: 150px;
+}
+.rk-btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.rk-categories{
+    margin-top: 100px;
+    margin-bottom: 130px;
+}
+.rk-categories h1{
+    width: 120px;
+    height: 54px;
+}
+.rk-categories img{
+    width: 100px;
+}
+.rk-categories .first{
+    background-color: #ffa500;
+    border-radius: 15px;
+}
+.rk-categories .second{
+    background-color: #da70d6;
+    border-radius: 15px;
+}
+.rk-categories .third{
+    background-color: #0000ff;
+    border-radius: 15px;
+}
+.shoes-section{
+    margin-bottom: 130px;
+}
+.backpack-section{
+    margin-bottom: 150px;
+}
+.subscribe-info{
+    background-color: #fceae8;
+    border-radius: 20px;
+    margin-bottom: 100px;
+}
